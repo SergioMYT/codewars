@@ -23,7 +23,7 @@ In this simple assignment you are given a number and have to make it negative. B
 
 ## Solution
 
-#### Notes
+**Notes**
 
 The `abs()` function returns the absolute value of the specified number.
 
@@ -38,7 +38,7 @@ The symbol `-` is used to change a number from positive to negative or vice vers
 
         print(num) # return -5
 
-#### Code
+**Code**
 
 <details>
 	<summary>Spoiler</summary>
@@ -52,7 +52,7 @@ The symbol `-` is used to change a number from positive to negative or vice vers
 
 ## Solution
 
-#### Notes
+**Notes**
 
 The Python ternary operator determines if a condition is true or false and then returns the appropriate value in accordance with the result. 
 
@@ -67,6 +67,8 @@ The Python ternary operator determines if a condition is true or false and then 
         min = a if a < b else b
  
         print(min) # return 5
+
+**Code**
 
 <details>
 	<summary>Spoiler</summary>
