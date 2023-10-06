@@ -16,6 +16,8 @@ Given an integer or a floating-point number, find its opposite.
 
 ---
 
+## Solution
+
 **Notes**
 
 The `abs()` function returns the absolute value of the specified number.
